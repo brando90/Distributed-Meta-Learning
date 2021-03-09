@@ -1,7 +1,7 @@
 # Distributed-Meta-Learning
 
 ## Citation
-If you use this implementation consider please citing us:
+If you use this implementation consider citing us:
 
 ```
 @software{brando2021distmetalearning,
